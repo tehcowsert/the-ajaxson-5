@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+}
+input[name="tag"]{
+    width:250px;
+    padding-top: 5px;
+}
+
+input[type="text"]{
+    height:20px;
+    padding-top: 5px;
+}
+input[type="submit"]{
+    padding:10px;
+    margin:5px;
+    background: lightblue;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+#gifrequest {
+    background:lightgrey;
+    border: 2px black solid; 
+    padding: 2px;
+    margin: 2px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    
+}
+
+#capcha {
+    background:lightgrey;
+    border: 2px black solid; 
+    padding: 2px;
+    margin: 2px;
+    padding-bottom: 10px;
+   
+}
+
+#capcha p {
+    margin:0px;
+    padding: 5px 0 0 0 ;
+}
+span p {
+    background: lightgray;
+   
+}
+
+
+#error {
+    color: red;
+
+}
+    
+
+
+.error{
+    border: 1px solid red;
+}
+
+#gif {
+    border: solid blue 2px;
+    display:inline-block;
+    margin:10px;
+    max-width: 330px;
+    
+}
+
+h1 {
+    background: lightblue;
+    border: 2px black solid; 
+    padding: 2px;
+    margin: 2px;
+    padding-bottom: 10px;
+   ;
+}
